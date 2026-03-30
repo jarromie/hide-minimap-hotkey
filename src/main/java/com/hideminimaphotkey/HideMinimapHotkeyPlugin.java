@@ -30,9 +30,6 @@ public class HideMinimapHotkeyPlugin extends Plugin
 	private ConfigManager configManager;
 
 	@Inject
-	private MinimapConfig minimapconfig;
-
-	@Inject
 	private KeyManager keyManager;
 
 	private final KeyListener keyListener = new KeyListener()
