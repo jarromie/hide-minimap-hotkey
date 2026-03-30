@@ -1,4 +1,4 @@
-package com.hideminimaphotkey;
+package com.jarromie;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;

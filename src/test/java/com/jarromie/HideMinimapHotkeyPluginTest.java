@@ -1,4 +1,4 @@
-package com.hideminimaphotkey;
+package com.jarromie;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
